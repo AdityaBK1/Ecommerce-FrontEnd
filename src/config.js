@@ -1,3 +1,3 @@
 export const config = {
-    api : 'https://redux-ecommerce-backend.vercel.app'
+    api : 'https://ecommercebackend-asdy.onrender.com/'
 }
